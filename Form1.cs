@@ -20,7 +20,7 @@ namespace Prueba5
         private void button1_Click(object sender, EventArgs e)
         {
             string res = "prueba que no va";
-            MessageBox.Show("prueba");
+            MessageBox.Show(res);
         }
     }
 }
